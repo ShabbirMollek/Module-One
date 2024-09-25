@@ -1,0 +1,14 @@
+body{
+                box-sizing: border-box;
+                margin: 0px;
+                padding: 0px;
+                
+}
+.info-section{
+                background-color: rgb(200, 200, 58);
+                padding: 20px;
+                width: 50%;
+                margin-left: 300px;
+                border-radius: 16px;
+                
+}
